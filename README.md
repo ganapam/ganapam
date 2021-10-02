@@ -1,9 +1,7 @@
  👋  Hi I'm MAHENDRA REDDY
 
 
-**ganapam/ganapam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
 - 🔭 I’m currently AS STUDENT ...
 - 🌱 I’m currently learning  WEBDEVELOPMENT...
@@ -13,4 +11,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me:  twitter @Ganapammahendra...
 - 😄 Pronouns:  HE,HIS..
 - ⚡ Fun fact:  CHITCHATTING,CHESS,CIRCKET,CLASH OF CLANS ...
--->
+
