@@ -1,6 +1,6 @@
  👋  Hi I'm MAHENDRA REDDY
 
-<!--
+
 **ganapam/ganapam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
