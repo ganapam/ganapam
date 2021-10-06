@@ -1,6 +1,6 @@
 <a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
 <img align="     right     " alt="Coding" width="400" src="https://cdn.dribbble.com/users/2646423/screenshots/5507196/computer.gif">
-
+<img align="right" src="https://github.com/amandewatnitrr/amandewatnitrr/blob/main/terminal.gif" width="40%"/>
 - <h1 align="center">Hi 👋, I'm MAHENDRA REDDY GANAPAM</h1>
 <h3 align="center">A passionate full ftack developer from India</h3>
 
